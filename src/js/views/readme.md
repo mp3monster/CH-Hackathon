@@ -1,6 +1,7 @@
 # Welcome to Christel House Hack-a-thon
 
-<div>
+## What - Building some super tools for use at Christel House
+## When - Mar 6-7, 2020
 
 This will serve as a starter applicaiton for the next few days of hacking.
 
@@ -17,8 +18,6 @@ To change the content of this section, you will make edits to the dashboard.html
 
 # Books Library
 
-<div>
-
 Christel House has a need to organise the process around cataloging and checking out books from the library. Currently the process is not accurate and does not allow for notifications and reporting on the books library information.
 
 *   Integrate with http rest services for CRUD actions
@@ -28,11 +27,11 @@ Christel House has a need to organise the process around cataloging and checking
 *   Reports to show books that have been checked out
 *   Chat Bot to interact and conversational search / investigate the database of books
 
-To change the content of this section, you will make edits to the books.html file located in the /js/views folder.</div>
+To change the content of this section, you will make edits to the books.html file located in the /js/views folder.</
 
 # Educators Daily Check-in
 
-<div>
+
 
 Similar to the learners daily attendance, Christel House has a requirement to optomise the attendence of educators as well. This new process can allow for the following:
 
@@ -43,11 +42,11 @@ Similar to the learners daily attendance, Christel House has a requirement to op
 *   Integration with current Biometric system - TBD
 *   Reporting on daily check-ins
 
-To change the content of this section, you will make edits to the educators.html file located in the /js/views folder.</div>
+To change the content of this section, you will make edits to the educators.html file located in the /js/views folder.
 
 # Learners Attendance
 
-<div>
+
 
 Currently the daily attendance process is not optomised and takes lots of time to enter into the system. Christel House has a requirement to streamline the daily process of capturing attendance into the system. Some of the requirements are:
 
@@ -61,4 +60,4 @@ Currently the daily attendance process is not optomised and takes lots of time t
 *   A quick input view to capture attendance quickly
 *   Photos of students ca be clicked to show they are absent
 
-To change the content of this section, you will make edits to the learners.html file located in the /js/views folder.</div>
+To change the content of this section, you will make edits to the learners.html file located in the /js/views folder.
