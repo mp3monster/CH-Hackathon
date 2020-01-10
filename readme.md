@@ -1,6 +1,6 @@
 # Welcome to Christel House Hack-a-thon
 
-## What - Building some super tools for use at Christel House
+## What - Building some super tools (Oracle JET, Machine Learning, Conversational Chatbot) for use at Christel House
 ## When - Mar 6-7, 2020
 
 This will serve as a starter applicaiton for the next few days of hacking.
