@@ -1,4 +1,4 @@
-![Ojet Logo][https://www.oracle.com/webfolder/technetwork/jet/css/images/logo_jet_256_rich.png]
+![Ojet Logo](https://www.oracle.com/webfolder/technetwork/jet/css/images/logo_jet_256_rich.png)
 
 # Welcome to Christel House Hack-a-thon
 
