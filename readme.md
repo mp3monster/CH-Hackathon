@@ -7,6 +7,8 @@
 
 This will serve as a starter application for the next few days of hacking.
 
+Learn Oracle JET [here](http://bit.ly/teach-me-jet)
+
 The following requirements have been identified for the overall application:
 
 *   Easy to use and navigate for both Educators and Learners
